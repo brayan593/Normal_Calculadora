@@ -1,0 +1,16 @@
+C:\Users\REBE\source\repos\Matematica\Matematica.Cli\bin\Debug\netcoreapp3.1\Matematica.Cli.exe
+C:\Users\REBE\source\repos\Matematica\Matematica.Cli\bin\Debug\netcoreapp3.1\Matematica.Cli.deps.json
+C:\Users\REBE\source\repos\Matematica\Matematica.Cli\bin\Debug\netcoreapp3.1\Matematica.Cli.runtimeconfig.json
+C:\Users\REBE\source\repos\Matematica\Matematica.Cli\bin\Debug\netcoreapp3.1\Matematica.Cli.runtimeconfig.dev.json
+C:\Users\REBE\source\repos\Matematica\Matematica.Cli\bin\Debug\netcoreapp3.1\Matematica.Cli.dll
+C:\Users\REBE\source\repos\Matematica\Matematica.Cli\bin\Debug\netcoreapp3.1\Matematica.Cli.pdb
+C:\Users\REBE\source\repos\Matematica\Matematica.Cli\bin\Debug\netcoreapp3.1\Matematica.Negocio.dll
+C:\Users\REBE\source\repos\Matematica\Matematica.Cli\bin\Debug\netcoreapp3.1\Matematica.Negocio.pdb
+C:\Users\REBE\source\repos\Matematica\Matematica.Cli\obj\Debug\netcoreapp3.1\Matematica.Cli.csprojAssemblyReference.cache
+C:\Users\REBE\source\repos\Matematica\Matematica.Cli\obj\Debug\netcoreapp3.1\Matematica.Cli.AssemblyInfoInputs.cache
+C:\Users\REBE\source\repos\Matematica\Matematica.Cli\obj\Debug\netcoreapp3.1\Matematica.Cli.AssemblyInfo.cs
+C:\Users\REBE\source\repos\Matematica\Matematica.Cli\obj\Debug\netcoreapp3.1\Matematica.Cli.csproj.CoreCompileInputs.cache
+C:\Users\REBE\source\repos\Matematica\Matematica.Cli\obj\Debug\netcoreapp3.1\Matematica.Cli.csproj.CopyComplete
+C:\Users\REBE\source\repos\Matematica\Matematica.Cli\obj\Debug\netcoreapp3.1\Matematica.Cli.dll
+C:\Users\REBE\source\repos\Matematica\Matematica.Cli\obj\Debug\netcoreapp3.1\Matematica.Cli.pdb
+C:\Users\REBE\source\repos\Matematica\Matematica.Cli\obj\Debug\netcoreapp3.1\Matematica.Cli.genruntimeconfig.cache

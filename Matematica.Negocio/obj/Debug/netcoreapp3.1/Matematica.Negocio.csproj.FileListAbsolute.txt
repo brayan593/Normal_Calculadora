@@ -1,0 +1,9 @@
+C:\Users\REBE\source\repos\Matematica\Matematica.Negocio\bin\Debug\netcoreapp3.1\Matematica.Negocio.deps.json
+C:\Users\REBE\source\repos\Matematica\Matematica.Negocio\bin\Debug\netcoreapp3.1\Matematica.Negocio.dll
+C:\Users\REBE\source\repos\Matematica\Matematica.Negocio\bin\Debug\netcoreapp3.1\Matematica.Negocio.pdb
+C:\Users\REBE\source\repos\Matematica\Matematica.Negocio\obj\Debug\netcoreapp3.1\Matematica.Negocio.csprojAssemblyReference.cache
+C:\Users\REBE\source\repos\Matematica\Matematica.Negocio\obj\Debug\netcoreapp3.1\Matematica.Negocio.AssemblyInfoInputs.cache
+C:\Users\REBE\source\repos\Matematica\Matematica.Negocio\obj\Debug\netcoreapp3.1\Matematica.Negocio.AssemblyInfo.cs
+C:\Users\REBE\source\repos\Matematica\Matematica.Negocio\obj\Debug\netcoreapp3.1\Matematica.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\REBE\source\repos\Matematica\Matematica.Negocio\obj\Debug\netcoreapp3.1\Matematica.Negocio.dll
+C:\Users\REBE\source\repos\Matematica\Matematica.Negocio\obj\Debug\netcoreapp3.1\Matematica.Negocio.pdb
